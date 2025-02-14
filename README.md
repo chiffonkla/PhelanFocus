@@ -1,7 +1,7 @@
 This is a Next.js app with Tailwind/Turbopack.
 
 Clone repo, or use GitHub Desktop
-## Preresiquites
+## Prerequisites
 Next.js
 Node.js
 
@@ -16,7 +16,7 @@ npm install next@latest
 
 test in turbo
 ```bash
-npx run dev
+npm run dev
 ```
 
 Open [http://localhost:3000/PhelanFocus](http://localhost:3000/PhelanFocus) with your browser to see the result.
